@@ -1,5 +1,6 @@
 #World Whispers
-you put in a phrase and watch it change over the course of several bad translations.
+You put in a phrase and watch it change over the course of several bad translations.
+This is make with Titanium and alloy.
 
 Bug:
-+ you may need to change the google translate api key.
++ You may need to change the google translate api key.
